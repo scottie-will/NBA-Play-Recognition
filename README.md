@@ -1,6 +1,8 @@
 # NBA Play Recognition
-*Aidana Imangozhina*<sup>1</sup>, 
-*Shree Phadke*<sup>1</sup>, 
-*Scottie Williamson*<sup>1</sup>, 
+*Aidana Imangozhina*<sup>1*</sup>, 
+*Shree Phadke*<sup>1*</sup>, 
+*Scottie Williamson*<sup>1*</sup>, 
 
 <sup>1</sup>University of Columbia &nbsp;&nbsp;
+
+<span>*</span> Equal Contribution
