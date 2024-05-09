@@ -5,7 +5,7 @@
 
 <sup>1</sup>Columbia University &nbsp;&nbsp;
 
-<span>*</span> Equal Contribution
+<span>*</span> Equal Contribution - to see the timeline, refer to the Meeting Progress PDF.
 
  ## Approach outline
  <div align="center">
